@@ -1,0 +1,20 @@
+{
+  "name": "ppt-column",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.34.1",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-vuetiful": "^0.3.1"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.7",
+    "@iconify-json/uim": "^1.1.2",
+    "playwright-chromium": "^1.23.1"
+  }
+}
